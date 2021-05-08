@@ -90,3 +90,25 @@ footer p {
     font-family: Open Sans Condensed;
     padding: 15px 0px;
 }
+
+@media screen and (width: 768px) {
+     .date {
+        font-size: 25px;
+    }
+    .card-title {
+        font-size: 35px;
+    }
+    h3 {
+        font-size: 15px
+
+    }
+    p {
+        padding: 40px 0px 0px 30px;
+        font-size: 1.1rem;
+    }
+    
+}
+
+
+
+
