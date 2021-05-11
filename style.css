@@ -91,6 +91,26 @@ footer p {
     padding: 15px 0px;
 }
 
+@media screen and (width: 1024px){
+    h1 {
+        font-size: 30px;
+    }
+    h3 {
+        font-size: 18px;
+    }
+
+    h4 {
+        padding: 20px 0px 35px 0px;
+        font-size: 20px;
+    }
+    p {
+        padding: 20px 0px 0px 10px;
+        font-size: 1.2rem;
+        line-height: 1.1;
+    }
+    
+}
+
 @media screen and (width: 768px) {
      .date {
         font-size: 25px;
